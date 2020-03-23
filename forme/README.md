@@ -1,3 +1,3 @@
 # day
 
-Portfolio website using skell by @ajlkn
+Portfolio website using skel and Html5up by @ajlkn
